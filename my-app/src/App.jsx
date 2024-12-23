@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import ShopItemFunc from './ShopItemFunc';
-import './App.css'
 
 function App() {
   const item = {
